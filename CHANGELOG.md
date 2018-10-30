@@ -29,6 +29,7 @@
 - [xo-server] Use @xen-orchestra/log for basic logging [#3555](https://github.com/vatesfr/xen-orchestra/issues/3555) (PR [#3579](https://github.com/vatesfr/xen-orchestra/pull/3579))
 - [Backup Report] Log error when job failed [#3458](https://github.com/vatesfr/xen-orchestra/issues/3458) (PR [#3593](https://github.com/vatesfr/xen-orchestra/pull/3593))
 - [Backup NG] Display logs for backup restoration [#2511](https://github.com/vatesfr/xen-orchestra/issues/2511) (PR [#3609](https://github.com/vatesfr/xen-orchestra/pull/3609))
+- [Legacy Backup] Restore and File restore functionalities moved to the Backup NG view [#3499](https://github.com/vatesfr/xen-orchestra/issues/3499) (PR [#3610](https://github.com/vatesfr/xen-orchestra/pull/3610))
 
 ### Bug fixes
 
